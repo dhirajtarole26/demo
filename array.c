@@ -10,7 +10,7 @@ void main()
     for(i=0;i<element;i++)
     {
         //printf("%d\n",a[i]);
-        printf("a[%d]=%d\n",i,a[i]);
+        // printf("a[%d]=%d\n",i,a[i]);
     }
     printf("\n");
     for(i=element-1;i>=0;i--)
